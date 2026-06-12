@@ -20,6 +20,8 @@ Welcome to my GitHub profile! I am a passionate Computer Science Engineering stu
 
 ⚙️ **Adaptive-Parser-Explorer** – Lexical analysis & parsing-based compiler project
 
+🛠️ **Smart Route Analysis System** - Dijkstra-powered Dehradun road route planner.
+
 ---
 
 ## 🛠️ Tech Stack
